@@ -19,7 +19,7 @@ Method 2: Install via ghp.ci proxy script
 bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) e319751636e32eff40a61641825f703b
 ```
 Method 3: Manually download the binary file
-> download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
+> download the binary file for the corresponding operating system from the [release](https://github.com/hieunv12/cursor-vip/releases) page
  ```shell
 # MaxOS/Linux
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
